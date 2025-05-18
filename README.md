@@ -54,7 +54,9 @@ This project aims to use a **CycleGAN**-based model with a **modified U-Net gene
 
 ## 📊 Sample Results
 
-> (Insert a few result images or GIFs here if available)
+Here’s a GIF showing how the model learns to generate T2-weighted MRI images from T1-weighted inputs over training epochs:
+
+![T1 to T2 MRI Translation](t1_to_t2_cyclegan.gif)
 
 ---
 
